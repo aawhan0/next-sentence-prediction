@@ -38,4 +38,4 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-http://localhost:8501
+https://next-sentence-prediction-n6dzwnvdpd8rphgglm4h9v.streamlit.app/
